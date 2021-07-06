@@ -2,6 +2,10 @@
 
 This Programm write by [Mr.nope](https://github.com/mrprogrammer2938)
 
+```
+Matrix 1.3.2
+```
+
 ###### Build a matrix, Choose the color of the matrix
 
 
