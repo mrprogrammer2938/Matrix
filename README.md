@@ -2,7 +2,7 @@
 
 This Programm write by [Mr.nope](https://github.com/mrprogrammer2938)
 
-######Build a matrix, Choose the color of the matrix
+###### Build a matrix, Choose the color of the matrix
 
 
 **Installing**
